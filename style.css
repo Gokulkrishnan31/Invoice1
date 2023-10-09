@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    /* list-style-type: none; */
+}
+
+
+body{
+    font-size: 14px !important; 
+}
+.link-custom a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 16px;
+    
+}
+.link-custom a:hover{
+    color: #FFFFFF;
+}
+.link-custom{
+    background-color: lightgray;
+    border-radius: 10px;
+    border:0px solid gray;
+     width: 150px;
+    
+}
+
+
+/* .form-control{
+    border-radius: 20px solid black;
+    border: 2px solid black;
+    background-color:red;
+     */
+/* } */
+.company{
+    /* margin-left: 50px; */
+
+}
+.zip{
+    
+
+}
+.city{
+    /* margin-left: 220px; */
+
+}
+.row1{
+
+}
+.form-control{
+   
+}
+span a{
+    color: black;
+    font-weight: 490;
+     
+}
+input[type=email],input[type=date],input[type=text],textarea{
+    /* background-color: #000; */
+    border-radius: 5px;
+    background-color: rgb(212, 212, 184);
+    /* border:none; */
+}
+select{
+    background-color: rgb(212, 212, 184) !important;
+    border-radius: 9px !important;
+}
+input[type=email]:hover{
+    border: 1px solid black;
+}
+input[type=email],input[type=date]{
+    border: 1px solid gray;
+    background-color: rgb(212, 212, 184);
+}
+input[type=date]:hover{
+    border: 1px solid black;
+    /* background-color: rgb(212, 212, 184); */
+}
+.item-name .row i{
+    font-size: 30px;
+    color: blue;
+}
+.item-name{
+    border-bottom: 1px solid gray;
+}
+.item-name p{
+    color: gray;
+}
+.form-check{
+    font-size: 22px;
+}
+.form-check:hover{
+   
+    color: red;
+}
+#flexSwitchCheckChecked{
+    cursor: pointer;
+}
+.box1{
+    border-bottom: 1px solid gray;
+}
+
+
+.box2{
+    width: 400px;
+}
+::placeholder{
+    font-size: 14px;
+}
+.right1{
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+.right1 a{
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 18px;
+ color: black;
+}
+.right2{
+    border: 0px solid gray;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: orange;
+    
+}
+.right2 a{
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 18px;
+ color:white;
+
+}
+.save{
+   
+}
+.right3{
+    border: 0px solid gray;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: blue;
+    
+}
+.right3 a{
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 18px;
+ color:white;
+
+}
+
+.pdf{
+    
+}
+.right5{
+    /* color:red; */
+}
+.right3 a:hover{
+    color: white;
+}
+.right2 a:hover{
+    color: white;
+}
+.right1 a:hover{
+    color: black;
+}
+.export1 a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+}
+.export1 a:hover{
+    color: white;
+}
+.export1{
+    border: 0px solid gray;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+}
+.miss1{
+    border: 1px solid gray;
+    padding: 10px;
+    text-align: center;
+    /* background-color: blue; */
+    color: black;
+    border-radius: 10px;
+}
+.miss1 a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+.miss1 a:hover{
+    color: black;
+    
+    
+}
+.miss1:hover {
+ background-color: rgb(238, 233, 233);
+ transition: 0.9s;
+}
+.miss1 i{
+    color:lightblue;
+}
+.currency{
+    border-bottom: 1px solid white;
+}
+.social{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 37%;
+}
+.social li{
+    list-style-type: none;
+    color: gray;
+}
+.social i{
+    color: gray;
+    font-size: 17px;
+}
+.generator{
+    font-size: 20px;
+}
+.bottom p{
+    color: gray;
+}
+.page3 p{
+    font-size: 16px;
+}
+.page3 li{
+    font-size: 16px;
+}
